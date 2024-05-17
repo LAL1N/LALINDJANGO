@@ -1,0 +1,2 @@
+# LALINDJANGO
+Django Practice Coding
